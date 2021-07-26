@@ -2,7 +2,8 @@
 
 ## Authors
 - [Nyagah Isaac](https://github.com/Nyagahisaac/project_clone/)
-- Add your clickable username here. It should point to your GitHub account. 
+## Authors link
+https://github.com/Nyagahisaac/project_clone/
 
 ## Project setup instructions
 To start using this project use the following commands:
