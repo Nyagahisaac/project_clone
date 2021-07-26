@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Nyagah Isaac](https://github.com/daydroidmuchiri)
+- [Nyagah Isaac](https://github.com/Nyagahisaac/project_clone/)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
