@@ -2,6 +2,7 @@
 
 ## Authors
 - [Nyagahisaac](https://github.com/Nyagahisaac/project_clone/)
+- [RoyRasugu](https://github.com/RoyRasugu/theclone)
 ## Authors link
 https://github.com/Nyagahisaac/project_clone/
 
