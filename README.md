@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Nyagah Isaac](https://github.com/Nyagahisaac/project_clone/)
+- [Nyagahisaac](https://github.com/Nyagahisaac/project_clone/)
 ## Authors link
 https://github.com/Nyagahisaac/project_clone/
 
