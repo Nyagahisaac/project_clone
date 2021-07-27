@@ -5,6 +5,7 @@
 - [RoyRasugu](https://github.com/RoyRasugu/theclone)
 ## Authors link
 https://github.com/Nyagahisaac/project_clone/
+https://github.com/RoyRasugu/theclone
 
 ## Project setup instructions
 To start using this project use the following commands:
